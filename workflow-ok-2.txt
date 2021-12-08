@@ -1,0 +1,10 @@
+desc
+1 = readfile in_filename.txt
+2 = grep you
+3 = sort
+4 = dump dump_filename.txt
+5 = replace ( Z
+6 = sort
+7 = writefile out_filename.txt
+csed
+1

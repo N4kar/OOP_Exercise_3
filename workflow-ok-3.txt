@@ -1,0 +1,28 @@
+
+
+
+
+
+desc
+
+
+
+
+1 = readfile in_filename.txt
+
+
+
+3 = grep v
+6 = dump dump_filename.txt
+4 = sort
+
+
+9999 = replace v z
+5 = replace s __vbcvb___gf__gfnnd___
+123 = writefile out_filename.txt
+
+7 = sort
+
+csed
+
+1 -> 3 -> 6 -> 4 -> 4 -> 7 -> 6 -> 6 -> 6 -> 6 -> 4 -> 5 -> 123
